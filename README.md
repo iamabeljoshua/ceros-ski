@@ -47,6 +47,8 @@ I made some modification and fixed some bugs as instructed here: https://github.
 2. We can also add a background music to make the game more captivating
 3. We can implement a feature to play a different background music when the skier is being chased by a Rhino (this will be fun!)
 4. We can also add game pickups (like health - to increase the skier's life)
+5. Backend services for leaderboard
+6. Multiplayer feature (allows more than one users to control their own unique skier and share location in game world, score, rhino and everything in realtime) - Not sure    how this will work in terms of the user experience but it could be a fun addition to the game!
 
 
 
