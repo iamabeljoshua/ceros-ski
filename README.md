@@ -4,7 +4,7 @@ Welcome to the Ceros Code Challenge - Ski Edition!
 
 My submission for the Ceros Code Challenge - Ski Edition!
 
-You can play the live version here: http://ceros-ski.herokuapp.com/  
+You can play the live version here: https://iamabeljoshua.github.io/ceros-ski/
 
 Or deploy it locally by running:
 ```
