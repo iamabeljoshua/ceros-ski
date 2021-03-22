@@ -24,7 +24,7 @@ I made some modification and fixed some bugs as instructed here: https://github.
    1. Fixed the bug
    2. Wrote unit tests to make sure this never happens
 
-2. Added an ability for the skier to jump over rocks. This user can either press the J key to jump or the skier jumps automatically when in collision with a ramp.
+2. Added an ability for the skier to jump over rocks. The user can either press the J key to jump or the skier jumps automatically when in collision with a ramp.
 
 3. Added Rhinos that chases the skier. The Rhino eats the skier when it catches up to him. Also used the Rhino sequence png files for the eating animation.
 
