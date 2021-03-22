@@ -24,21 +24,23 @@ I made some modification and fixed some bugs as instructed here: https://github.
    1. Fixed the bug
    2. Wrote unit tests to make sure this never happens
 
-2. Added an ability for the skier to jump over rocks. The user can either press the J key to jump or the skier jumps automatically when in collision with a ramp.
+2. Fixed a bug I found - (there was a slight miscalculation in the code that checks skier's intersection with obstacles). Fixed it and added the idea of bounds for    entities
 
-3. Added Rhinos that chases the skier. The Rhino eats the skier when it catches up to him. Also used the Rhino sequence png files for the eating animation.
+3. Added an ability for the skier to jump over rocks. The user can either press the J key to jump or the skier jumps automatically when in collision with a ramp.
 
-4. Added a game over status and a way for the user to restart / reset the game.
+4. Added Rhinos that chases the skier. The Rhino eats the skier when it catches up to him. Also used the Rhino sequence png files for the eating animation.
 
-5. Added a way for the user to pause and play the game.
+5. Added a game over status and a way for the user to restart / reset the game.
 
-6. Implemented scores and life for the game.
+6. Added a way for the user to pause and play the game.
 
-7. Added a panel in the UI that shows the current score, life and status of the game.
+7. Implemented scores and life for the game.
 
-8. Added a feature that allows the user to increase the skier's speed when the F key is pressed.
+8. Added a panel in the UI that shows the current score, life and status of the game.
 
-9. Wrote more unit tests
+9. Added a feature that allows the user to increase the skier's speed when the F key is pressed.
+
+10. Wrote more unit tests
 
 
 ### Feature suggestions and improvements:
