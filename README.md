@@ -41,11 +41,12 @@ I made some modification and fixed some bugs as instructed here: https://github.
 9. Wrote more unit tests
 
 
-### Feature suggestions:
+### Feature suggestions and improvements:
 
-1. Add background music
-2. Play a different background music when the skier is being chased by a Rhino
-3. Add game pickups (like health - to increase the skier's life)
+1. One exciting feature we can work on is responsiveness. So users can play it on mobile devices as well.
+2. We can also add a background music to make the game more captivating
+3. We can implement a feature to play a different background music when the skier is being chased by a Rhino (this will be fun!)
+4. We can also add game pickups (like health - to increase the skier's life)
 
 
 
