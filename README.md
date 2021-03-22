@@ -39,3 +39,13 @@ I made some modification and fixed some bugs as instructed here: https://github.
 8. Added a feature that allows the user to increase the skier's speed when the F key is pressed.
 
 9. Wrote more unit tests
+
+
+### Feature suggestions:
+
+1. Add background music
+2. Play a different background music when the skier is being chased by a Rhino
+3. Add game pickups (like health - to increase the skier's life)
+
+
+
