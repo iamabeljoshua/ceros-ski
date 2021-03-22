@@ -1,6 +1,7 @@
 const path = require('path');
 const htmlWebpackPlugin = require('html-webpack-plugin');
 require("@babel/register");
+const CopyPlugin = require("copy-webpack-plugin");
 
 // Webpack Configuration
 const config = {
@@ -35,7 +36,12 @@ const config = {
         new htmlWebpackPlugin({
             title: 'Ceros Ski',
             template:"./src/index.ejs",
-        })
+        }),
+        new CopyPlugin({
+            patterns: [
+              { from: "img", to: "img" },
+            ],
+          }),
     ],
 };
 
